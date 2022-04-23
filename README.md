@@ -18,7 +18,7 @@ There are 186 columns used to describe each product:
 ## Running the notebook online
 
 The main notebook is quite heavy and it may not correctly display on Github.
-However it can be displayed at the following address: [https://nbviewer.org/github/Valkea/OC_AI_03/blob/main/Cleaning_02_Nutrigrade.ipynb](https://nbviewer.org/github/Valkea/OC_AI_03/blob/main/Cleaning_02_Nutrigrade.ipynb)
+However it can be displayed at the following address: [https://nbviewer.org/github/Valkea/OC_AI_03/blob/main/Cleaning_02_Nutriscore.ipynb](https://nbviewer.org/github/Valkea/OC_AI_03/blob/main/Cleaning_02_Nutriscore.ipynb)
 
 ## Running the notebook locally
 
@@ -78,7 +78,7 @@ in order to see the script used to reduce the number of columns from 186 to 36, 
 
 and to run the main EDA, use the following command:
 ```bash
->>> jupyter notebook notebook.ipynb
+>>> jupyter notebook Cleaning_02_Nutriscore.ipynb
 ```
 
 #### Select the installed kernel
