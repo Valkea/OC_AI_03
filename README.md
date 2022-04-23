@@ -18,7 +18,7 @@ There are 186 columns used to describe each product:
 ## Running the notebook online
 
 The main notebook is quite heavy and it may not correctly display on Github.
-However it can be displayed at the following address: [https://nbviewer.org/github/Valkea/OC_AI_03/blob/main/Cleaning_Nutrigrade.ipynb](https://nbviewer.org/github/Valkea/OC_AI_03/blob/main/Cleaning_Nutrigrade.ipynb)
+However it can be displayed at the following address: [https://nbviewer.org/github/Valkea/OC_AI_03/blob/main/Cleaning_02_Nutrigrade.ipynb](https://nbviewer.org/github/Valkea/OC_AI_03/blob/main/Cleaning_02_Nutrigrade.ipynb)
 
 ## Running the notebook locally
 
@@ -68,8 +68,15 @@ let's configure and run the virtual environment for Jypiter notebook
 >>> python -m ipykernel install --user --name=venvP3
 ```
 
-#### Run the jupyter notebook
+#### Run the jupyter notebooks
 
+in order to see the script used to reduce the number of columns from 186 to 36, run the following:
+```bash
+>>> jupyter notebook Cleaning_01_Preselection.ipynb
+
+```
+
+and to run the main EDA, use the following command:
 ```bash
 >>> jupyter notebook notebook.ipynb
 ```
