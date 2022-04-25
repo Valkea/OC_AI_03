@@ -6,9 +6,9 @@ We are provided with a dataset from [openfoodfacts.org](https://world.openfoodfa
 
 There are 186 columns used to describe each product:
 
-- *Nutritional informations*: most of them are nutritional columns such as calcium, iron, fat, salt, vitamin-a, etc.
-- *Meta informations*: several columns are used to identify the products, such as the product name, the code (barre-code), the open food fact url, etc.
+- *General informations*: several columns are used to identify the products, such as the product name, the code (barre-code), the open food fact url, etc.
 - *Origins*: some others gives informations about the manufacturers, the sellers, the production place, the brand etc.
+- *Nutritional informations*: most of the columns are nutritional columns such as calcium, iron, fat, salt, vitamin-a, etc.
 - *Categories*: several columns also give informations about the products types.
 - *Quantities*: multiple columns give informations about the serving quantity or the quantity in the package.
 - *Scores*: finally the dataset also provides several scores such as the Nova_groups, the Ecoscore, the Nutriscore or Nutrigrade...
