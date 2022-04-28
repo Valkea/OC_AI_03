@@ -81,6 +81,13 @@ and to run the main EDA, use the following command:
 >>> jupyter notebook Cleaning_02_Nutriscore.ipynb
 ```
 
+#### Run the Voila notebook
+
+In order to run the interactive version of the notebook you can run the Voila version using the following command:
+```bash
+>>> voila Voila.ipynb
+```
+
 #### Select the installed kernel
 Click on the kernel and click change kernel you will be able to see the kernel you just created.
 ![alt text](medias/venv_selection.png)
