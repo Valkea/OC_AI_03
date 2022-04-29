@@ -83,9 +83,14 @@ and to run the main EDA, use the following command:
 
 #### Run the Voila notebook
 
-In order to run the interactive version of the notebook you can run the Voila version using the following command:
+in order to run the interactive version of the notebook you can run the Voila version using the following command:
 ```bash
 >>> voila Voila.ipynb
+```
+
+and to run the KNN prediction prototype all alone without the rest of th EDA, run the following:
+```bash
+>>> voila KNN-Prototype.ipynb
 ```
 
 #### Select the installed kernel
