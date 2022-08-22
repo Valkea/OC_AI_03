@@ -102,6 +102,6 @@ Once done with the project, the kernel can be listed and removed using the follo
 
 ```bash
 >>> jupyter kernelspec list
->>> jupyter kernelspec uninstall venvP3
+>>> jupyter kernelspec uninstall venvp3
 ```
 
